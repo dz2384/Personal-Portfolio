@@ -1,0 +1,58 @@
+/* Clear floats after the columns */
+/* Clear floats after the columns */
+
+/* Create four equal columns that floats next to each other */
+header {
+	font-size: 20px;
+	font-family: century-gothic;
+	padding-top: 100px;
+	background-color: black;
+}
+
+h1 {
+	font-family: "Open Sans";
+	font-size: 60px;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 200px;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Open Sans";
+}
+h3 {
+	font-family: "Caveat";
+}
+
+.subline{
+	font-family: "Caveat";
+	padding-top: 300px;
+}
+
+.headshot {
+	border-radius: 100%;
+}
+
+.selfIntro{
+	font-family: "Caveat";
+	font-size:25px;
+
+}
+#about {
+	padding-top: 300px;
+}
+
+.portfolio {
+	margin-top: 100px;
+	padding-top: 100px;
+}
+
+#portfolioPics{
+	margin-top: 100px;
+	padding-bottom:400px;
+}
+
+#thoughts{
+	margin-top: 100px;
+}
